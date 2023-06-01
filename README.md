@@ -20,7 +20,7 @@
 
 - :telescope: Завершил курсы по веб-разработке SkillFactory!
 
-- :seedling: Знаю множество языков и самоучка!
+- :seedling: Работаю на фрилансе!
 
 - :zap: I’m currently learning Typescript;.
 
